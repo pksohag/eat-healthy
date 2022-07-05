@@ -1,0 +1,31 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.top-section {
+    display: flex;
+}
+
+.half-width1 {
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 0;
+    padding-right: 0;
+
+}
+
+.half-width2 {
+    width: 50%;
+    margin-right: 2%;
+
+}
+
+
+.half-width2 img {
+    width: 100%;
+
+}
