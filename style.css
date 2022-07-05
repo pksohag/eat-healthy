@@ -38,6 +38,7 @@ span {
     text-align: center;
     background-color: rgb(235, 239, 241);
     padding-top: 20px;
+    padding-bottom: 100px;
 
 }
 
@@ -80,6 +81,22 @@ span {
     border-radius: 20px;
     padding: 25px;
     background-color: white;
+
+}
+
+.social-media-count {
+    display: flex;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+
+}
+
+.social {
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
 
 }
 
